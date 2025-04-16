@@ -1,1 +1,1 @@
-SELECT DISTINCT COUNT("title") FROM "episodes";
+SELECT COUNT(DISTINCT "title") FROM "episodes";

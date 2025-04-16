@@ -1,1 +1,1 @@
-SELECT DISTINCT COUNT("latitude") FROM "normals"
+SELECT COUNT(DISTINCT "latitude") FROM "normals"

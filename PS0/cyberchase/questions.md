@@ -1,3 +1,6 @@
+database:
+wget https://cdn.cs50.net/sql/2024/x/psets/0/cyberchase.zip
+question:
 * In 1.sql, write a SQL query to list the titles of all episodes in Cyberchase’s original season, Season 1.
 * In 2.sql, list the season number of, and title of, the first episode of every season.
 * In 3.sql, find the production code for the episode “Hackerized!”.
